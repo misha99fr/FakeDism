@@ -7,4 +7,4 @@ time
 
 Run instructions:
 
-python Scripy.py
+py Dism.py
