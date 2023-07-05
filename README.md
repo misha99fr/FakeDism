@@ -1,5 +1,5 @@
 # FakeDism
-A Dism simulator, written in Python
+A Simple Dism simulator, written in Python
 
 Requirements:
 
